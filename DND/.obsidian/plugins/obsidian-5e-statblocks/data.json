@@ -1,0 +1,569 @@
+{
+  "monsters": [
+    [
+      "Octobuddy",
+      {
+        "name": "Octobuddy",
+        "source": "5e SRD",
+        "size": "Small",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 12,
+        "hp": 3,
+        "hit_dice": "1d6 + -1",
+        "speed": "5 ft., swim 30 ft.",
+        "stats": [
+          4,
+          15,
+          11,
+          3,
+          10,
+          4
+        ],
+        "skillsaves": [
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 30 ft., passive Perception 12",
+        "languages": "",
+        "cr": "0",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Hold Breath",
+            "desc": "While out of water, the octopus can hold its breath for 30 minutes.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Underwater Camouflage",
+            "desc": "The octopus has advantage on Dexterity (Stealth) checks made while underwater.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Water Breathing",
+            "desc": "The octopus can breathe only underwater.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Tentacles",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.",
+            "attack_bonus": 4,
+            "damage_bonus": 1
+          },
+          {
+            "name": "Ink Cloud (Recharges after a Short or Long Rest)",
+            "desc": "A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.",
+            "attack_bonus": 0
+          }
+        ],
+        "monster": "Octopus",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Old Croaker",
+      {
+        "name": "Old Croaker",
+        "source": "5e SRD",
+        "size": "Large",
+        "type": "Beast",
+        "subtype": "",
+        "alignment": "Unaligned",
+        "ac": 11,
+        "hp": 39,
+        "hit_dice": "4d8",
+        "speed": "30 ft., swim 30 ft.",
+        "stats": [
+          12,
+          13,
+          11,
+          2,
+          10,
+          3
+        ],
+        "skillsaves": [
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "Cold",
+        "condition_immunities": "",
+        "senses": "darkvision 30 ft., passive Perception 12",
+        "languages": "",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The frog can breathe air and water",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Standing Leap",
+            "desc": "The frog's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.",
+            "attack_bonus": 3,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Swallow",
+            "desc": "The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 ft. of movement, exiting prone.",
+            "attack_bonus": 0
+          }
+        ],
+        "layout": "Basic 5e Layout",
+        "player": false,
+        "creature": "Giant Frog"
+      }
+    ],
+    [
+      "Giant Frog",
+      {
+        "name": "Giant Frog",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 11,
+        "hp": 39,
+        "hit_dice": "6d10+6",
+        "speed": "20 ft., swim 40 ft.",
+        "stats": [
+          15,
+          13,
+          13,
+          2,
+          10,
+          3
+        ],
+        "skillsaves": [
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "Cold",
+        "condition_immunities": "",
+        "senses": "darkvision 30 ft., passive Perception 12",
+        "languages": "",
+        "cr": 1,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The frog can breathe air and water",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Standing Leap",
+            "desc": "The frog's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack:_&nbsp;+4&nbsp;to hit, reach 5 ft., one target.&nbsp;_Hit:_&nbsp;7&nbsp;(1d10 + 2)&nbsp;piercing damage plus 5&nbsp;(1d10)&nbsp;poison damage, and the target is&nbsp;<STATBLOCK-MARKDOWN-LINK>https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled|grappled<STATBLOCK-MARKDOWN-LINK>&nbsp;(escape DC 13). Until this grapple ends, the target is&nbsp;<STATBLOCK-MARKDOWN-LINK>https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained|restrained<STATBLOCK-MARKDOWN-LINK>, and the toad can't bite another target.",
+            "attack_bonus": 3,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Swallow",
+            "desc": "The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is&nbsp;<STATBLOCK-MARKDOWN-LINK>https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Blinded|blinded<STATBLOCK-MARKDOWN-LINK>&nbsp;and&nbsp;<STATBLOCK-MARKDOWN-LINK>https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained|restrained<STATBLOCK-MARKDOWN-LINK>, it has total cover against attacks and other effects outside the toad, and it takes 10&nbsp;(3d6)&nbsp;acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer&nbsp;<STATBLOCK-MARKDOWN-LINK>https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained|restrained<STATBLOCK-MARKDOWN-LINK>&nbsp;by it and can escape from the corpse using 5 feet of movement, exiting&nbsp;<STATBLOCK-MARKDOWN-LINK>https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone|prone<STATBLOCK-MARKDOWN-LINK>."
+          }
+        ],
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "784a2ac8ab5a",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "09e828f81949",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "c938facb88f9",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "ba2b7809ebab",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "aaab781a49b9",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "9be8698a8bcb",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "5ad8fb0b4b2a",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "c8e95bcaa86a",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "7bd99b391ab9",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "0bd98b5bc888",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "0be8a82a9b39",
+              "properties": [
+                "ac"
+              ],
+              "display": "Armor Class",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "2af9fabada9b",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "4849791bfa4a",
+              "display": "Speed",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "5bfa38982a8b",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "4a7b8b48e9ba",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "db69ca9bbaba",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "08d8bbb89a89",
+              "display": "Saves",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "68eada3b6a1a",
+              "display": "Skills",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "3899bbda99cb",
+              "display": "Damage Resistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "fa3a8a5afa29",
+              "display": "Damage Immunities",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "39a92ab86afb",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "d9ebcb5aa93a",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "1a9bf849b8ea",
+              "display": "Senses",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "6a1978295b3b",
+              "display": "Languages",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "6beb583b097b",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "e91a2a18e8ba",
+                  "display": "Proficiency Bonus",
+                  "properties": [
+                    "proficiency"
+                  ],
+                  "callback": "",
+                  "fallback": "-",
+                  "conditioned": true
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "8a78085a48ba",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "e858686bf918",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "4ae8fb8b7b39",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "992a2adb283b",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "bbabe8ebf97a",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "1bfb9ac9fa3b",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "name": "Basic 5e Player Layout",
+      "id": "9b5a8819499a"
+    }
+  ],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 4,
+    "patch": 2
+  },
+  "paths": [
+    "/",
+    "My Bestiary"
+  ],
+  "autoParse": true,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

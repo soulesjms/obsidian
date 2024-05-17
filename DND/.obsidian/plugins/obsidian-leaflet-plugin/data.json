@@ -1,0 +1,1032 @@
+{
+  "mapMarkers": [
+    {
+      "id": "highshaw",
+      "locked": false,
+      "lastAccessed": 1715726210338,
+      "markers": [
+        {
+          "id": "ID_8bcae80ba938",
+          "type": "default",
+          "loc": [
+            -146.28271535796702,
+            133.2012399060159
+          ],
+          "layer": "%5B%5Bhighshaw.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5204444050051903,
+            0.5715563970030457
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Settlements/Highshaw/Highshaw Map.md"
+      ]
+    },
+    {
+      "id": "Highshaw",
+      "locked": true,
+      "lastAccessed": 1715810366787,
+      "markers": [
+        {
+          "id": "ID_1af88be8d859",
+          "type": "default",
+          "loc": [
+            2540,
+            2420
+          ],
+          "link": "The Abbey of the Silver Moon",
+          "layer": "%5B%5Bhighshaw.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8357501394243932,
+            -0.8771922950983301
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca8b8beb9b2b",
+          "type": "default",
+          "loc": [
+            2300,
+            2952
+          ],
+          "link": "Warm Hearth Inn & Tavern",
+          "layer": "%5B%5Bhighshaw.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0194770295788464,
+            -0.7943079837504564
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a78097a99c8",
+          "type": "default",
+          "loc": [
+            2648,
+            1616
+          ],
+          "link": "Old Tomlin's Mill",
+          "layer": "%5B%5Bhighshaw.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5580876964090163,
+            -0.9144902352048733
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbaac88918f8",
+          "type": "Dungeon",
+          "loc": [
+            2665.9379797359534,
+            2403.971680393007
+          ],
+          "link": "silver",
+          "layer": "%5B%5Bhighshaw.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9918da0ac9f9",
+          "type": "default",
+          "loc": [
+            3628.0119313944815,
+            2591.998004987531
+          ],
+          "link": "Guard House",
+          "layer": "%5B%5Bhighshaw.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "The Flying City Campaign/Settlements/Highshaw/Highshaw Map.md",
+        "The Flying City Campaign/Settlements/Highshaw/Buildings/The Abbey of the Silver Moon.md"
+      ]
+    },
+    {
+      "id": "Palebank Village",
+      "locked": false,
+      "lastAccessed": 1715871202072,
+      "markers": [
+        {
+          "id": "ID_480bbaa8c9ea",
+          "type": "default",
+          "loc": [
+            2087.625,
+            2157.981087470449
+          ],
+          "layer": "%5B%5Bpalebank_village.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Waystone Inn & Tavern",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98e9e82b1bf9",
+          "type": "default",
+          "loc": [
+            1911.625,
+            1793.6942474389284
+          ],
+          "layer": "%5B%5Bpalebank_village.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Palebank Cemetary",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c88808985a7a",
+          "type": "default",
+          "loc": [
+            2535.625,
+            2962.6146572104017
+          ],
+          "link": "Tulgi's Cabin",
+          "layer": "%5B%5Bpalebank_village.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1898596bd829",
+          "type": "default",
+          "loc": [
+            2591.625,
+            1913.7888100866826
+          ],
+          "link": "Jolly Dwarf",
+          "layer": "%5B%5Bpalebank_village.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b197b89d8b9",
+          "type": "default",
+          "loc": [
+            2695.625,
+            3627.137903861308
+          ],
+          "layer": "%5B%5Bpalebank_village.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Urgon's House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab2bbbca598b",
+          "type": "default",
+          "loc": [
+            3449.3939470502246,
+            2046.1753924168233
+          ],
+          "layer": "%5B%5Bpalebank_village.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Frozen Sick/Palebank Village Map.md"
+      ]
+    },
+    {
+      "id": "CroakerCave",
+      "locked": false,
+      "lastAccessed": 1715881328422,
+      "markers": [
+        {
+          "id": "ID_7b9b6ab9089a",
+          "type": "default",
+          "loc": [
+            1564,
+            1064
+          ],
+          "link": "C1. Entrance Pool",
+          "layer": "%5B%5B5.9-croaker-cave.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5900875413195974,
+            -1.340503037303952
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6aa889b8a9d9",
+          "type": "default",
+          "loc": [
+            364,
+            627.9873916469661
+          ],
+          "link": "C2. Training Pool",
+          "layer": "%5B%5B5.9-croaker-cave.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.34827775932017413,
+            -0.31198408285079193
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3bda7af878",
+          "type": "default",
+          "loc": [
+            1032,
+            1291.993695823483
+          ],
+          "link": "C3. Bat Cavern",
+          "layer": "%5B%5B5.9-croaker-cave.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7165313753467094,
+            -0.8845263008297177
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8896a0848ba",
+          "type": "default",
+          "loc": [
+            308,
+            1427.998018114434
+          ],
+          "link": "C4. Bandit Camp",
+          "layer": "%5B%5B5.9-croaker-cave.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8da5a2b3acb",
+          "type": "default",
+          "loc": [
+            1044,
+            1692.0059456566978
+          ],
+          "link": "C5. Old Croaker's Pool",
+          "layer": "%5B%5B5.9-croaker-cave.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9383755905739672,
+            -0.8948114903742493
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a284978caa8",
+          "type": "default",
+          "loc": [
+            1439.5625,
+            1473.897457240819
+          ],
+          "link": "C6. Hulil's Cavern",
+          "layer": "%5B%5B5.9-croaker-cave.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Frozen Sick/Locations/Croaker Cave/_Croaker Cave.md"
+      ]
+    },
+    {
+      "id": "Salsvault",
+      "locked": false,
+      "lastAccessed": 1715898102911,
+      "markers": [
+        {
+          "id": "ID_e969a9499909",
+          "type": "default",
+          "loc": [
+            1097,
+            1145.998251625988
+          ],
+          "link": "S1. Entrance Chamber",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6355632431001282,
+            -0.9402377441959304
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a096aab7b78",
+          "type": "default",
+          "loc": [
+            1093,
+            909.0013986992097
+          ],
+          "link": "S2. Ransacked Frigid Woe Laboratory",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5041263161790336,
+            -0.9368093476810867
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c918296ad9d8",
+          "type": "default",
+          "loc": [
+            1086.0718217287128,
+            652.0067041923547
+          ],
+          "link": "S3. Animated Armor Laboratory",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebc82a1819da",
+          "type": "default",
+          "loc": [
+            1083.287588777791,
+            1417.0428241430468
+          ],
+          "link": "S4. Frigid Woe Laboratory",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7858828158300273,
+            -0.9284848484848486
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5889ab4a886a",
+          "type": "default",
+          "loc": [
+            1281.2332933362002,
+            1624.8899291214798
+          ],
+          "link": "S5. Disease Storage",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f84a282ba9fa",
+          "type": "default",
+          "loc": [
+            893.7829714197961,
+            1654.63014619159
+          ],
+          "link": "S6. North Hall",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9176472131198132,
+            -0.7660606060606062
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6819a8693a18",
+          "type": "default",
+          "loc": [
+            701.4499269370552,
+            1533.0066669672296
+          ],
+          "link": "S7. Unoccupied Dorm",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.850195615542522,
+            -0.6012121212121213
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0beb0a1a7b2b",
+          "type": "default",
+          "loc": [
+            704.2783540618015,
+            1781.9090885900998
+          ],
+          "link": "S8. Ruined Dorm",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9882352941176472,
+            -0.6036363636363637
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5afbaafbfa7a",
+          "type": "default",
+          "loc": [
+            1083.287588777791,
+            1711.1986886865138
+          ],
+          "link": "S9. Zombie Dorm",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9490197621394211,
+            -0.9284848484848486
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b8948fb2828",
+          "type": "default",
+          "loc": [
+            1023.8464249842967,
+            1941.6426070053808
+          ],
+          "link": "S10. Ferol Sal’s Chamber",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8680bbad939",
+          "type": "default",
+          "loc": [
+            882.4250687469872,
+            2080.2219035795874
+          ],
+          "link": "S11. Kitchen",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9496b5a0868",
+          "type": "default",
+          "loc": [
+            605.2834046956847,
+            2146.776744112495
+          ],
+          "link": "S12. Dining Hall",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.1905885438866848,
+            -0.5187878787878789
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48cb88e9ea7a",
+          "type": "default",
+          "loc": [
+            435.5777772109133,
+            1756.4529662523157
+          ],
+          "link": "S13. Drowned Library",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9741174927625402,
+            -0.3733333333333334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bf849ea9a6a",
+          "type": "default",
+          "loc": [
+            670.293034391023,
+            671.8037465600986
+          ],
+          "link": "S14. South Hall",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb2b79aa795b",
+          "type": "default",
+          "loc": [
+            797.5722550046015,
+            437.06738705685046
+          ],
+          "link": "S15. Animated Weapon Storage",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f99a592978e9",
+          "type": "default",
+          "loc": [
+            466.6462814092973,
+            349.39477085684206
+          ],
+          "link": "S17. Ferol’s Laboratory",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a90a1b0ac85a",
+          "type": "default",
+          "loc": [
+            500.58740690625154,
+            974.4156798956113
+          ],
+          "link": "S18. Drowned Curative Laboratory",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ba88a9b5849",
+          "type": "default",
+          "loc": [
+            811.7143906283325,
+            963.1030842569005
+          ],
+          "link": "S16. Golem Laboratory",
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59687a490869",
+          "type": "Locked",
+          "loc": [
+            1060.6601717798214,
+            1264.3069247615472
+          ],
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7011764705882355,
+            -0.9090909090909093
+          ],
+          "description": "DC15 picklock DC18 Str",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e958fb48fa9a",
+          "type": "Locked",
+          "loc": [
+            867,
+            597.0017483740121
+          ],
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.33109332129842267,
+            -0.7431049445924082
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb9a78685a29",
+          "type": "Locked",
+          "loc": [
+            773,
+            737.9986013007903
+          ],
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.40928926704782437,
+            -0.6625376264935774
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b6ae8399958",
+          "type": "Locked",
+          "loc": [
+            1193.5962466428923,
+            1479.2644191531695
+          ],
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8203905113342632,
+            -1.0230303030303032
+          ],
+          "description": "Teleport to S15 if fail to open",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e81aa8aa9869",
+          "type": "Locked",
+          "loc": [
+            942.9710868860853,
+            1963.194473562092
+          ],
+          "layer": "%5B%5B5.10-salsvault.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Frozen Sick/Locations/Salsvault/_Salsvault.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "map",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "star",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castle",
+      "iconName": "dot-circle",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Forest",
+      "iconName": "tree",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "bomb",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Locked",
+      "iconName": "lock",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -2,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "800px",
+    "image": "[[silver_moon_dungeon.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[silver_moon_dungeon.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1.5,
+    "minZoom": -2,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Highshaw",
+    "lock": false,
+    "noScrollZoom": true,
+    "recenter": true,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2402.36,
+        1837.1
+      ]
+    ],
+    "width": "60%",
+    "lat": 1837.1,
+    "long": 2402.36,
+    "unit": "feet",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

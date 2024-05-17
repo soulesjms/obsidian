@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "43d37e907d8f9492",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e856531e0c19e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60f4e074f8a76a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frozen Sick/Locations/Jolly Dwarf.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e2d75c52797060d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef86b9879b000e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1149f4ee08b7222",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03f88b5a25d2e817",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de45ee0b81c0952e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "c82ec8e7a6fe579b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f82af5cafb3728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc743d74f25b7ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frozen Sick/Locations/Jolly Dwarf.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a30df7d229b8043e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frozen Sick/Locations/Jolly Dwarf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "128dbe7867481279",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0aa8836a2c6bcb5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frozen Sick/Locations/Jolly Dwarf.md"
+              }
+            }
+          },
+          {
+            "id": "44891b82c2eab390",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aff2309d3c61de13",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "e3a651479b3df6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c10eee8ba29e8d",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open DnDBeyond": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "c60f4e074f8a76a5",
+  "lastOpenFiles": [
+    "Frozen Sick/Locations/Into the Wilds.md",
+    "Frozen Sick/Locations/Salsvault/_Salsvault.md",
+    "Frozen Sick/World Map.md",
+    "Characters/Sierra.md",
+    "Characters/Saeldor.md",
+    "Characters/Eluned.md",
+    "Characters/xFlameburst4x_106451589.pdf",
+    "Characters/xFlameburst4x_106451589.pdf.crdownload",
+    "Characters/Saeldor.pdf",
+    "Frozen Sick/Locations/Croaker Cave/_Croaker Cave.md",
+    "Frozen Sick/_assets/5.9-croaker-cave-player.png",
+    "Frozen Sick/_assets/5.9-croaker-cave-player.png.crdownload",
+    "Frozen Sick/_assets/5.10-salsvault-player.png",
+    "Frozen Sick/_assets/5.10-salsvault-player.png.crdownload",
+    "Frozen Sick/Locations/Salsvault/S2. Ransacked Frigid Woe Laboratory.md",
+    "Frozen Sick/Locations/Salsvault/S18. Drowned Curative Laboratory.md",
+    "Frozen Sick/Locations/Salsvault/S17. Ferol’s Laboratory.md",
+    "Frozen Sick/Locations/Salsvault/S16. Golem Laboratory.md",
+    "Frozen Sick/Locations/Salsvault/S15. Animated Weapon Storage.md",
+    "Frozen Sick/Locations/Salsvault/S14. South Hall.md",
+    "Frozen Sick/Locations/Salsvault/S13. Drowned Library.md",
+    "Frozen Sick/Locations/Salsvault/S12. Dining Hall.md",
+    "Frozen Sick/Locations/Salsvault/S11. Kitchen.md",
+    "Frozen Sick/Locations/Salsvault/S10. Ferol Sal’s Chamber.md",
+    "Frozen Sick/Locations/Salsvault/S9. Zombie Dorm.md",
+    "Frozen Sick/Locations/Salsvault/S8. Ruined Dorm.md",
+    "Frozen Sick/Locations/Salsvault/S7. Unoccupied Dorm.md",
+    "Frozen Sick/Locations/Salsvault/S5. Disease Storage.md",
+    "Frozen Sick/Locations/Salsvault/S4. Frigid Woe Laboratory.md",
+    "Frozen Sick/Locations/Salsvault/S3. Animated Armor Laboratory.md",
+    "Frozen Sick/Locations/Salsvault/S1. Entrance Chamber.md",
+    "Frozen Sick/Overview.md",
+    "Frozen Sick/Concluding the Adventure.md",
+    "Frozen Sick/_assets/5.10-salsvault.png",
+    "Frozen Sick/_assets/5.10-salsvault.png.crdownload",
+    "Frozen Sick/Locations/Salsvault",
+    "Frozen Sick/_assets/Wildemount_Poster_Map.webp.crdownload",
+    "Frozen Sick/_assets/Wildemount_Poster_Map.webp",
+    "Frozen Sick/Locations/Croaker Cave",
+    "Frozen Sick/_assets/5.9-croaker-cave.png",
+    "Frozen Sick/_assets/5.9-croaker-cave.png.crdownload",
+    "Frozen Sick/_assets/palebank_village.png",
+    "The Flying City Campaign/Settlements/Highshaw/_map assets/highshaw.png",
+    "The Flying City Campaign/Settlements/Highshaw/_map assets/silver_moon_dungeon.png",
+    "The Flying City Campaign/Settlements/Highshaw/_map assets/highshaw2.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
