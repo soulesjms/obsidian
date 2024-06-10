@@ -810,6 +810,38 @@
       "files": [
         "Frozen Sick/Locations/Salsvault/_Salsvault.md"
       ]
+    },
+    {
+      "id": "afterlifecasino",
+      "locked": false,
+      "lastAccessed": 1716238064687,
+      "markers": [
+        {
+          "id": "ID_58d93a4a1998",
+          "type": "default",
+          "loc": [
+            439.113311116846,
+            869.0332450485707
+          ],
+          "link": "A1. Docking Area",
+          "layer": "%5B%5B016-map-2.02-dms-map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7229403537063471,
+            -0.26918075422626786
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Afterlife Casino/Afterlife Casino/_afterlife casino.md"
+      ]
     }
   ],
   "defaultMarker": {
