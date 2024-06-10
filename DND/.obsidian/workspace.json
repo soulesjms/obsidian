@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34e856531e0c19e4",
+        "id": "59e95251a0d36faf",
         "type": "tabs",
         "children": [
           {
-            "id": "c60f4e074f8a76a5",
+            "id": "908a38cb8f4d217f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Flying City Campaign/Mind Playground Blah.md",
+                "file": "Arorhas/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 305.5
   },
   "right": {
     "id": "c82ec8e7a6fe579b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Flying City Campaign/Mind Playground Blah.md",
+                "file": "Arorhas/Session 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Flying City Campaign/Mind Playground Blah.md",
+                "file": "Arorhas/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Flying City Campaign/Mind Playground Blah.md"
+                "file": "Arorhas/Session 1.md"
               }
             }
           },
@@ -149,14 +149,14 @@
         "currentTab": 4
       },
       {
-        "id": "e3a651479b3df6b5",
+        "id": "9518e6448039cc97",
         "type": "tabs",
         "children": [
           {
-            "id": "36c10eee8ba29e8d",
+            "id": "96e06e8be79dbf89",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
+              "type": "initiative-tracker-creature-view",
               "state": {}
             }
           }
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,41 +181,42 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c60f4e074f8a76a5",
+  "active": "908a38cb8f4d217f",
   "lastOpenFiles": [
-    "Frozen Sick/Locations/Jolly Dwarf.md",
+    "Arorhas/Notes for online campaign.md",
+    "Arorhas/Session 1.md",
+    "Arorhas",
+    "Characters/DNDBeyond.md",
+    "Untitled.md",
+    "The Flying City Campaign/Cities/Avispire.md",
+    "The Flying City Campaign/Settlements/Highshaw/Seed.md",
     "The Flying City Campaign/Mind Playground Blah.md",
-    "Frozen Sick/Locations/Into the Wilds.md",
-    "Frozen Sick/Locations/Salsvault/_Salsvault.md",
-    "Frozen Sick/World Map.md",
-    "Characters/Sierra.md",
-    "Characters/Saeldor.md",
-    "Characters/Eluned.md",
-    "Characters/xFlameburst4x_106451589.pdf",
-    "Characters/xFlameburst4x_106451589.pdf.crdownload",
-    "Characters/Saeldor.pdf",
+    "Frozen Sick/Locations/Croaker Cave/C5. Old Croaker's Pool.md",
+    "Frozen Sick/Locations/Croaker Cave/C1. Entrance Pool.md",
     "Frozen Sick/Locations/Croaker Cave/_Croaker Cave.md",
-    "Frozen Sick/_assets/5.9-croaker-cave-player.png",
-    "Frozen Sick/_assets/5.9-croaker-cave-player.png.crdownload",
-    "Frozen Sick/_assets/5.10-salsvault-player.png",
-    "Frozen Sick/_assets/5.10-salsvault-player.png.crdownload",
-    "Frozen Sick/Locations/Salsvault/S2. Ransacked Frigid Woe Laboratory.md",
-    "Frozen Sick/Locations/Salsvault/S18. Drowned Curative Laboratory.md",
-    "Frozen Sick/Locations/Salsvault/S17. Ferol’s Laboratory.md",
-    "Frozen Sick/Locations/Salsvault/S16. Golem Laboratory.md",
-    "Frozen Sick/Locations/Salsvault/S15. Animated Weapon Storage.md",
-    "Frozen Sick/Locations/Salsvault/S14. South Hall.md",
-    "Frozen Sick/Locations/Salsvault/S13. Drowned Library.md",
+    "Frozen Sick/Locations/Salsvault/_Salsvault.md",
+    "Frozen Sick/Locations/Salsvault/S1. Entrance Chamber.md",
     "Frozen Sick/Locations/Salsvault/S12. Dining Hall.md",
     "Frozen Sick/Locations/Salsvault/S11. Kitchen.md",
     "Frozen Sick/Locations/Salsvault/S10. Ferol Sal’s Chamber.md",
     "Frozen Sick/Locations/Salsvault/S9. Zombie Dorm.md",
     "Frozen Sick/Locations/Salsvault/S8. Ruined Dorm.md",
     "Frozen Sick/Locations/Salsvault/S7. Unoccupied Dorm.md",
+    "Frozen Sick/Locations/Salsvault/S6. North Hall.md",
     "Frozen Sick/Locations/Salsvault/S5. Disease Storage.md",
     "Frozen Sick/Locations/Salsvault/S4. Frigid Woe Laboratory.md",
     "Frozen Sick/Locations/Salsvault/S3. Animated Armor Laboratory.md",
-    "Frozen Sick/Locations/Salsvault/S1. Entrance Chamber.md",
+    "Frozen Sick/Locations/Salsvault/S2. Ransacked Frigid Woe Laboratory.md",
+    "Frozen Sick/Palebank Village Map.md",
+    "Frozen Sick/Locations/Jolly Dwarf.md",
+    "Frozen Sick/Locations/Into the Wilds.md",
+    "Characters/xFlameburst4x_106451589.pdf",
+    "Characters/xFlameburst4x_106451589.pdf.crdownload",
+    "Characters/Saeldor.pdf",
+    "Frozen Sick/_assets/5.9-croaker-cave-player.png",
+    "Frozen Sick/_assets/5.9-croaker-cave-player.png.crdownload",
+    "Frozen Sick/_assets/5.10-salsvault-player.png",
+    "Frozen Sick/_assets/5.10-salsvault-player.png.crdownload",
     "Frozen Sick/_assets/5.10-salsvault.png",
     "Frozen Sick/_assets/5.10-salsvault.png.crdownload",
     "Frozen Sick/Locations/Salsvault",
@@ -222,7 +224,6 @@
     "Frozen Sick/_assets/Wildemount_Poster_Map.webp",
     "Frozen Sick/Locations/Croaker Cave",
     "Frozen Sick/_assets/5.9-croaker-cave.png",
-    "Frozen Sick/_assets/5.9-croaker-cave.png.crdownload",
     "Frozen Sick/_assets/palebank_village.png",
     "The Flying City Campaign/Settlements/Highshaw/_map assets/highshaw.png",
     "The Flying City Campaign/Settlements/Highshaw/_map assets/silver_moon_dungeon.png",

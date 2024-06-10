@@ -9,9 +9,9 @@ Is flying allowed between the city and ground?
 Is Teleportation between the ground and city allowed?
 - Similar answer to the above question about flying, but even less common. Flying is one thing, teleportation is even harder/rarer.
 Falling?
-- Yes, falling is a very simple, very quick way to the ground, AKA death. 
+- Yes, falling is a very simple, very quick way to the ground, AKA death. If there are ways of getting to the ground safely... then also yes. Featherfall?
 Can the PCs be allowed to leave the city? 
-- Yes, but will be discouraged. I don't want the PCs to just leave the city right away. If they do... I'll need to plan a little bit ahead for that. ==TODO: come up with a plan for if PCs leave city and fall.== 
+- Yes, but will be discouraged. I don't want the PCs to just leave the city right away. If they do... I'll need to plan a little bit ahead for that. ==TODO: come up with a plan for if PCs leave city and/or fall.== 
 What about a reeeeeeallly long rope?
 - I imagine this city being at least a couple thousand feet in the air... not sure a rope would work anyway.
 Can you see the ground?
@@ -59,7 +59,7 @@ Since the city is flying, there's little to no food. (can this be mitigated with
 ## Random Encounters throughout City
 
 1. Questionable Merchant selling makeshift parachutes "guaranteeing a safe return to the surface." but charging massive amounts of gold for his parachutes. This can be shown by the adventurers walking through the city then seeing an individual jump off a tall building/hill/wall and using the parachute to land "safely". Adventurers then can either convince the individual not to jump off the edge of the city or not, confront the merchant that they're selling bad or ineffective products, or even help the merchant by improving upon their invention and making it more safe. (perhaps even leading to a fetch quest?)
-2. NPC faints in the middle of the street and is grabbed by other NPCs. If PCs follow, they are led to an infirmary where a number of NPCs are residing and recouperating due to altitude sickness.
+2. NPC faints in the middle of the street and is ferried off by other NPCs. If PCs follow, they are led to an infirmary where a number of NPCs are residing and recuperating due to altitude sickness. PCs can ask if there's anything that can be done, leading to fetch quest?
 
 
 ## PCs Gather
