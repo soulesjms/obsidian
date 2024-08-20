@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bfe882b8f1dadfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Afterlife Casino/Afterlife Casino/_afterlife casino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arorhas/Notes for online campaign.md",
+                "file": "Afterlife Casino/Afterlife Casino/_afterlife casino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arorhas/Notes for online campaign.md",
+                "file": "Afterlife Casino/Afterlife Casino/_afterlife casino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arorhas/Notes for online campaign.md"
+                "file": "Afterlife Casino/Afterlife Casino/_afterlife casino.md"
               }
             }
           },
@@ -166,8 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2da0869470a4b5f",
+  "active": "7bfe882b8f1dadfd",
   "lastOpenFiles": [
+    "Afterlife Casino/_assets/Keys-From-The-Golden-Vault.pdf",
+    "Afterlife Casino/_assets/017-map-2.02-dms-map-player.webp",
+    "Afterlife Casino/_assets/016-map-2.02-dms-map.webp",
+    "Afterlife Casino/_assets/014-02-003.player-map.webp",
+    "Afterlife Casino/Afterlife Casino/_afterlife casino.md",
+    "Afterlife Casino/Afterlife Casino/A1. Docking Area.md",
+    "Afterlife Casino/Afterlife Casino/A2. Avernus.md",
+    "Afterlife Casino/The Stygian Gambit.md",
     "Arorhas/Session 1.md"
   ]
 }
